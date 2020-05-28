@@ -1,2 +1,2 @@
 # tip_calculator
-This is an app using JavaScript, HTML, and CSS. Select the desired percentage for calculating the tip amount and overall bill amount. 
+This is an app using JavaScript and HTML. Select the desired percentage for calculating the tip amount and overall bill amount. 
